@@ -1,1 +1,1 @@
-# Local_RAG_Bot_Using_ollama
+# rag-tutorial-v2
